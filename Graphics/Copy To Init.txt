@@ -210,23 +210,28 @@
 [#nm:"Lattice Extended", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
 
--["Garden", color(56, 224, 112)]
-[#nm:"HGGrateA1", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "notProp"]]
-[#nm:"HGGrateA2", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "notProp"]]
-
-[#nm:"Roof Arch", #sz:point(1,15), #specs:[1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1], #specs2:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #tp:"voxelStruct", #repeatL:[6,3,2,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
-
-
--["Castle", color(252, 132, 3)]
+-["Garden", color(50, 230, 104)]
 [#nm:"Lizard Head L", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Lizard Head R", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Lizard Head Open L", #sz:point(4,3), #specs:[1,0,1,1,0,1,1,0,1,1,0,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,4,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Lizard Head Open R", #sz:point(4,3), #specs:[1,0,1,1,0,1,1,0,1,1,0,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,4,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
-
 [#nm:"Greenhouse Arch", #sz:point(1,1), #specs:[1], #specs2:[1], #tp:"voxelStruct", #repeatL:[3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:3, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
-
+[#nm:"Greenhouse Panel A", #sz:point(6,4), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[5,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Greenhouse Panel B", #sz:point(6,1), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[5,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Greenhouse Panel C", #sz:point(6,1), #specs:[0,0,0,0,0,0], #specs2:[0,0,0,0,0,0], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:3, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"3x3 BigBrick", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Brick Tower Segment L", #sz:point(8,2), #specs:[-1,-1, -1,-1, -1,-1, 1,1, 1,1, 1,1, 1,1, 1,1], #specs2:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Brick Tower Segment R", #sz:point(8,2), #specs:[1,1, 1,1, 1,1, 1,1, 1,1, -1,-1, -1,-1, -1,-1], #specs2:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Cross Beam Curved SW", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Cross Beam Curved NW", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Cross Beam Curved NE", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Cross Beam Curved SE", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Greenhouse Floor", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Greenhouse Floor L", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Greenhouse Floor R", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Dead Karmic Sign", #sz:point(13,13), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"HGGrateA1", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "notProp"]]
+[#nm:"HGGrateA2", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp", "notProp"]]
 
 
 -["3x3 Pipes", color(252, 132, 3)]
