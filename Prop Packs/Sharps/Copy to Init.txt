@@ -1,0 +1,8 @@
+-["Sharps", color (255, 0, 255)]
+[#nm:"Ribs", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Big Sharp", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Small Sharp", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Tiny Sharp", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Long Sharp", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Weird Sharp", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Stringy Bone", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
