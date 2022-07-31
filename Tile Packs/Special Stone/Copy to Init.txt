@@ -1,0 +1,19 @@
+-["Special Stone", color(165, 119, 213)]
+[#nm:"Decorated Stone N", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Decorated Stone S", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Plain Stone Tile", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Smooth Stone Top Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Middle Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Top Decorated Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Bottom Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Curve NE Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Curve NW Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Curve SE Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Curve SW Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Smooth Stone Top W Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Bottom W Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Top E Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Smooth Stone Bottom E Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
