@@ -3,7 +3,7 @@ Thanks to:
 - Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch" and for the props in the category "Crusher Tiles";
 - DOGGO for the tiles in the category "TM Custom Misc Props" and the tiles "Tiny Pots" in "Ridgeworks2";
 - FISH for the tiles in the categories "Garden", "Castle" and "Coral Caves";
-- Fishswallower for the tiles in the categories "NH Metal Plates", "Com Misc1", "Com Misc2" and "PROPSONLY";
+- Fishswallower for the tiles in the categories "NH Metal Plates", "Com Misc1", "Com Misc2" and "LG Tiles" and for the Props in the categories"Fishswallower Props";
 - Kaeporo for the tiles in the categories "Ridgeworks" and "Ridgeworks2" (except "Tiny Pots");
 - Matten for the tiles in the category "3x3 Pipes";
 - Sacretis for the tiles "Industrial Window" and "Stalagtite";
