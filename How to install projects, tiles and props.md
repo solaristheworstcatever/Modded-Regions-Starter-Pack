@@ -1,3 +1,4 @@
+**HOW TO INSTALL:**
 - To install **level editor projects**, you need to download the **LevelEditorProjects** folder from the github repository and place its content into your **local LevelEditorProjects folder** (found in the same folder as the editor executable).
 - To install **custom tiles** or **props**, you need to download the **Prop Packs** or **Tile Packs** folders from the github repository. These folders contain several packs. Choose which ones you want, then extract the packs' content into your **local Graphics 
 folder** (if it's a tile pack) or into your **local Props folder** (if it's a prop pack). These folders can be found in the same folder as the editor executable. After that, copy the content of the **Copy to Init.txt file** of each pack **at the end of the Init.txt
