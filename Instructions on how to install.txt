@@ -1,5 +1,0 @@
-To install all of this you need to first drop all the leveleditorprojects folders conetents into the World folder present within the leveleditor projects folder
-and to install all the tiles and props you to select everything and dump it into either the graphics and or props folders (DO NOT REPLACE THE FOLDER) 
-and once youve done that theres a txt file called "copy to init" open that and copy all the contents and place it at the end of the actual init.txt and your done
-if you have any questions dm me at Solaristheworstcatever#5222 k enjoy my collection of region stuff
-You install the Tile Packs the same you would normally install a Tile
