@@ -19,7 +19,8 @@
 -["Special Stone", color(165, 119, 213)]
 [#nm:"Decorated Stone N", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Decorated Stone S", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
+ 
+[#nm:"Small_Stone_Marked", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Plain Stone Tile", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
 [#nm:"Smooth Stone Top Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -264,7 +265,7 @@
 [#nm:"Void3", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Void4", #sz:point(1,1), #specs:[4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Void5", #sz:point(1,1), #specs:[5], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
+[#nm:"big_wall_vent_window", #sz:point(6,6), #specs:[-1,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  -1,0,0,0,0,-1], #specs2:[-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1], #tp:"voxelStruct", #repeatL:[6, 1, 1, 1, 1, 10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 -["Garden", color(50, 230, 104)]
 [#nm:"Lizard Head L", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Lizard Head R", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
