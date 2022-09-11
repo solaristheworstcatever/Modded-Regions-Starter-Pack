@@ -1,0 +1,5 @@
+-["Stoneheads", color(6, 89, 92)]
+[#nm:"Big_Head_Cyclops", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Eyeless_Big_Head", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Big_Head_SM", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Big_Head_SM2", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
