@@ -1,4 +1,10 @@
 --Copy to the end of the Props/Init.txt file
+-["Doors", color(121, 76, 212)]
+[#nm:"Door", #tp:"standard", #colorTreatment:"standard", #sz:point(4,7), #repeatL:[1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Background_Door", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Frame_Only", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Glass", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Window", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Crusher Tiles", color(80, 255, 80)]
 [#nm:"Machine Arm 1", #tp:"standard", #colorTreatment:"standard", #sz:point(3,9), #repeatL:[1,3], #tags:[], #layerExceptions:[], #notes:[]]
