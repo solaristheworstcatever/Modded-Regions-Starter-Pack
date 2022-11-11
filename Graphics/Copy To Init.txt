@@ -1,5 +1,10 @@
 --Copy to the end of the Graphics/Init.txt file=
+-["Doors", color(49, 80, 100)]
 
+[#nm:"Background_Door", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Frame_Only", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Glass", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background_Door_Window", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 -["More Harvester Tiles", color(40, 70, 150)]
 [#nm:"Harvester Suspender 2", #sz:point(2,1), #specs:[0, 0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"HAC End Piece 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
