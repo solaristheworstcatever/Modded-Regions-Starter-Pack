@@ -1,0 +1,5 @@
+- To install **level editor projects**, you need to download the **LevelEditorProjects** folder from the github repository and place its content into your **local LevelEditorProjects folder** (found in the same folder as the editor executable).
+- To use the blank you put them into you main project folder for easy access.
+Once you name the level the blank will remain the same but the level will 
+then be called whatever you named it 
+Also don't delete the blanks or you will be sad
