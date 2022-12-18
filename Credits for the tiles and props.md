@@ -7,5 +7,5 @@ Thanks to:
 - Kaeporo for the tiles in the categories "Ridgeworks" and "Ridgeworks2" (except "Tiny Pots");
 - Matten for the tiles in the category "3x3 Pipes";
 - Sacretis for the tiles "Industrial Window" and "Stalagtite";
-- Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles", "Frigdid Expanse", "Stoneheads", and for the props in the category "Lush Mire Props" and "Frigid Expanse Props;
+- Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles", "Frigdid Expanse", "Stoneheads", "Canopy Tiles" and for the props in the category "Lush Mire Props" and "Frigid Expanse Props;
 - 1MINISKIDI for some tiles in the Categories "Com Misc3";
