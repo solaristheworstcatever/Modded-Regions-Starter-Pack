@@ -128,3 +128,4 @@
 [#nm:"Buildings", #tp:"variedStandard", #colorTreatment:"standard", #bevel:1, #sz:point(12, 17), #repeatL:[3], #vars:2, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"BuildingsBis", #tp:"variedStandard", #colorTreatment:"standard", #bevel:1, #sz:point(18, 17), #repeatL:[3], #vars:4, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Vulture Statue", #tp:"variedSoft", #pxlSize:point(700, 640), #vars:1, #random:0, #depth:10, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #colorize:0, #tags:[], #notes:[]]
+[#nm:"Open Chimney Cap", #tp:"standard", #colorTreatment:"standard", #sz:point(20,10), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
