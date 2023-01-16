@@ -470,6 +470,16 @@
 [#nm:"Arrow Pipe L", #sz:point(8,11), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Arrow Pipe R", #sz:point(8,11), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 
+-["Coral Caves", color(70, 200, 8)]
+[#nm:"Pole Cage Segment L", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Divider L", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Top L", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Bottom L", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Segment R", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Divider R", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Top R", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Pole Cage Bottom R", #sz:point(3,1), #specs:[0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
 
 -["TM Custom Misc Props", color(0, 10, 255)]
 [#nm:"Train Bed NW", #sz:point(6,6), #specs:[1,-1,-1,-1,-1,1 ,1,1,1,-1,1,1 ,2,1,1,1,1,1 ,-1,-1,-1,-1,-1,1 ,-1,-1,-1,-1,-1,1 ,-1,-1,-1,-1,-1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["drawLast"]]
