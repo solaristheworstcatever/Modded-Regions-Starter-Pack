@@ -3,11 +3,11 @@ Thanks to:
 - Dakras for the tiles in the categories "More Harvester Tiles", "Temple Pillars Extended", "Special Stone", "Special Stone no tuch" and for the props in the category "Crusher Tiles";
 - DOGGO for the tiles in the category "TM Custom Misc Props" and the tiles "Tiny Pots" in "Ridgeworks2";
 - FISH for the tiles in the categories "Garden", "Castle" and "Coral Caves";
-- Fishswallower for the tiles in the categories "NH Metal Plates", "Com Misc1", "Com Misc2", "LG Tiles", "Terras Hostiles", "MP Tiles", " West Building Cite" and for the Props in the categories"Fishswallower Props";
+- Fishswallower for the tiles in the categories "NH Metal Plates", "Com Misc1", "Com Misc2", "LG Tiles", "Terras Hostiles", "MP Tiles", " West Building Site" and for the Props in the categories"Fishswallower Props";
 - Kaeporo for the tiles in the categories "Ridgeworks" and "Ridgeworks2" (except "Tiny Pots");
 - Matten for the tiles in the category "3x3 Pipes";
 - Sacretis for the tiles "Industrial Window" and "Stalagtite";
-- Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles", "Frigdid Expanse", "Stoneheads", "Canopy Tiles", "cage tiles" and for the props in the category "Lush Mire Props" and "Frigid Expanse Props;
+- Wrayk for the tiles in the categories "Lush Mire", "Rig Tiles", "Frigdid Expanse", "Stoneheads", "Canopy Tiles", "cage tiles" "Diagonal Pipes", and for the props in the category "Lush Mire Props" and "Frigid Expanse Props;
 - 1MINISKIDI for some tiles in the Categories "Com Misc3";
 - Don for the tiles in "DW Train tiles"
 - LB Gamer for tiles and props in the Community Editor exclusive
