@@ -12,3 +12,4 @@ Thanks to:
 - Don for the tiles in "DW Train tiles"
 - LB Gamer for tiles and props in the Community Editor exclusive
 - Finbotic for the tiles in the "Misc 3", "Roof House"
+- Joar for all the vanilla tiles 
