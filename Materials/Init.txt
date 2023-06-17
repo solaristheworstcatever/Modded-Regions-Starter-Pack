@@ -1,0 +1,2 @@
+-New Materials
+[#nm:"BandedConcrete", #color:color(100, 185, 245), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(9, 9), #repeatL:[1,1], #tags:[]]]
