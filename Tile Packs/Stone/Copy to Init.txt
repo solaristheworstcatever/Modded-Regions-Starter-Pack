@@ -1,0 +1,12 @@
+--Copy to the end of the Graphics/Init.txt file=
+
+-["Stone", color(210, 180, 180)]
+[#nm:"Small Stone", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Square Stone", #sz:point(2,2), #specs:[1, 1, 1, 1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Tall Stone", #sz:point(2,3), #specs:[1, 1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]		
+[#nm:"Wide Stone", #sz:point(3,2), #specs:[1, 1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Big Stone", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:[1, 1, 1, 1, 1, 1, 1, 1, 1], #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Big Stone Marked", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:[1, 1, 1, 1, 1, 1, 1, 1, 1], #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Rounded Rock", #sz:point(4,3), #specs:[3,1,5,1,1,1,1,1,1,2,1,4], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"3DBrick", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"BigBrick", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
