@@ -413,7 +413,7 @@
 [#nm:"SadLiz7", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(7,3), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"MassiveMachine", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(16, 16),  #repeatL:[2,4], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"RidgePart1", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(80,60), #repeatL:[3,5], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"RidgePart2", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(18, 42)), #repeatL:[4], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"RidgePart2", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(18, 42), #repeatL:[4], #tags:[], #layerExceptions:[], #notes:[]]
 
 -["Trans flag", color(80, 255, 80)]
 [#nm:"TransFlag", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5, 5), #repeatL:[1], #vars:2, #random:0, #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[RETURN & QUOTE & "Hold love in your hearts and show kindness to others." & QUOTE & " (Wrayk quote)" & RETURN]]
