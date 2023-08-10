@@ -1156,6 +1156,7 @@
 [#nm:"SuspensionProp2", #sz:point(6,3), #specs: [0,0,0,0,0,0, 0,0,0,0,0,0, 0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"big_wall_vent_window", #sz:point(6,6), #specs:[-1,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  -1,0,0,0,0,-1],#specs2:[-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1], #tp:"voxelStruct", #repeatL:[6, 1, 1, 1, 1, 10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]] 
 [#nm:"Raindeer Weathervane", #sz:point(6, 12), #specs:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[3,3,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Burger16x14x6", #sz:point(16,14), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,2,1,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Mega Wheel", #sz:point(14, 17), #specs:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,0,0,0,0,0,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1 ,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1 ,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,-1,-1,-1 ,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,-1,-1,-1 ,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,-1,-1,-1 ,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,-1,-1,-1 ,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,-1,-1,-1 ,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1 ,-1,-1,-1,-1,1,1,1,1,1,1,1,1,1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,0,0,0,0,0,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1 ,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:2, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Neon Large Sign", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:14, #ptPos:0, #tags:["effectColorA", "notTrashProp", "nonSolid"]]
 [#nm:"Neon Large Sign Off", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:14, #ptPos:0, #tags:["effectColorA", "notTrashProp", "nonSolid"]]
@@ -1221,6 +1222,18 @@
 [#nm:"Big Inside Pipe Grate R", #sz:point(1,5), #specs:[-1, 1, 1, 1, -1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Inside Pipe Grate", #sz:point(1,5), #specs:[-1, 1, 1, 1, -1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Inside Pipe Grate triple", #sz:point(1,5), #specs:[-1, 1, 1, 1, -1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+-["Modded Ventalation", color(65, 2, 200)]
+[#nm:"Inside Vent Horizontal A", #sz:point(6,3), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Horizontal B", #sz:point(2,3), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Vertical A", #sz:point(3,6), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Vertical B", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Inside Vent NE", #sz:point(3,3), #specs:[0,2,1,0,0,2,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent NW", #sz:point(3,3), #specs:[0,0,0,0,0,3,0,3,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent SW", #sz:point(3,3), #specs:[0,0,0,5,0,0,1,5,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent SE", #sz:point(3,3), #specs:[1,4,0,4,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
 
 -["Wrayk Pipes", color(189, 1, 18)]
 
