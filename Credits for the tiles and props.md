@@ -13,4 +13,4 @@ Thanks to:
 - LB Gamer for tiles and props in the Community Editor exclusive
 - Finbotic for the tiles in the categories "Misc 3", "Roof House"
 - Joar for all the vanilla tiles 
-- MerFaruk for the tiles in the categories "Mer's PlatedBadPack", "Misc 3"
+- MerFaruk for the tiles in the categories "Mer's PlatedBadPack", "Misc 3" and for the props in the categories "Mer's Flesh Hell"
