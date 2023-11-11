@@ -1,0 +1,7 @@
+-["Frigid Expanse", color(80, 255, 80)]
+[#nm:"SmallSnow", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[10], #vars:5, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Snow", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[10], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"SnowFlat", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[10], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"SnowL", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[1,1,1,1,6], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"SnowLFlat", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[1,1,1,1,6], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"ShorterIcicles", #tp:"standard", #colorTreatment:"standard", #sz:point(9,16), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]

@@ -1,0 +1,24 @@
+-["LB Misc", color(0, 155, 155)]
+[#nm:"Background Tile", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Background Tile Slope NE", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Background Tile Slope NW", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Background Tile Slope SW", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Background Tile Slope SE", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Big Wheel No Box", #sz:point(4,4), #specs:[0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[3,4,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Big Wheel", "notTrashProp", "notProp"]]
+[#nm:"Sawblades", #sz:point(4,4), #specs:[0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[3,4,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Sawblades", "notTrashProp", "notProp"]]
+
+[#nm:"Hatch Cover Upside Down", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,4,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Turbine Platform No Border", #sz:point(4,2), #specs:[1,5,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Big Square Glass", #sz:point(3,3), #specs:[9,9,9, 9,9,9, 9,9,9], #specs2:0, #tp:"voxelStruct", #repeatL:[2, 6, 2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "glass"]]
+
+[#nm:"False Pole", #sz:point(1,16), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[4,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Heat Pipe Horizontal", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Heat Pipe Vertical", #sz:point(2, 1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Thick Pipe End Piece Open", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Disc Pipe Vertical", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Fat_0_Head", #sz:point(16, 16), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,16], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

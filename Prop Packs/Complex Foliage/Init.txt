@@ -1,0 +1,5 @@
+-["Complex Foliage", color(180, 255, 255)]
+[#nm:"ComplexLeaves4x4", #tp:"variedStandard", #colorTreatment:"standard", #bevel:4, #sz:point(4,4), #repeatL:[1,1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX"], #layerExceptions:[], #notes:[]]
+[#nm:"ComplexLeaves8x8", #tp:"variedStandard", #colorTreatment:"standard", #bevel:4, #sz:point(8,8), #repeatL:[1,1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX"], #layerExceptions:[], #notes:[]]
+[#nm:"ComplexLeaves10x10", #tp:"variedStandard", #colorTreatment:"standard", #bevel:10, #sz:point(10,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX"], #layerExceptions:[], #notes:[]]
+[#nm:"ComplexLeaves20x20", #tp:"variedStandard", #colorTreatment:"standard", #bevel:10, #sz:point(20,20), #repeatL:[1,1,1,1,1,1,1,1,1,1], #vars:10, #random:1, #colorize:0, #tags:[], #layerExceptions:[], #notes:[]]

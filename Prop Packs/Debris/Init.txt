@@ -1,0 +1,3 @@
+-["Debris", color(80, 255, 80)]
+[#nm:"Small Brick", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,6], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Big Brick", #tp:"standard", #colorTreatment:"standard", #sz:point(2,1), #repeatL:[1,6], #tags:[], #layerExceptions:[], #notes:[]]

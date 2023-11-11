@@ -1,0 +1,10 @@
+-["Modded Ventalation", color(65, 2, 200)]
+[#nm:"Inside Vent Horizontal A", #sz:point(6,3), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Horizontal B", #sz:point(2,3), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Vertical A", #sz:point(3,6), #specs:[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent Vertical B", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,5,1,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Inside Vent NE", #sz:point(3,3), #specs:[0,2,1,0,0,2,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent NW", #sz:point(3,3), #specs:[0,0,0,0,0,3,0,3,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent SW", #sz:point(3,3), #specs:[0,0,0,5,0,0,1,5,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Inside Vent SE", #sz:point(3,3), #specs:[1,4,0,4,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,7,2], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

@@ -1,0 +1,4 @@
+-["Glass", color(180, 180, 180)]
+[#nm:"Small Glass", #sz:point(1,1), #specs:[9], #specs2:0, #tp:"voxelStruct", #repeatL:[2, 6, 2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "glass"]]
+[#nm:"Wide Glass", #sz:point(3,1), #specs:[9,9,9], #specs2:0, #tp:"voxelStruct", #repeatL:[2, 6, 2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "glass"]]
+[#nm:"Tall Glass", #sz:point(1,3), #specs:[9,9,9], #specs2:0, #tp:"voxelStruct", #repeatL:[2, 6, 2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "glass"]]

@@ -1,0 +1,4 @@
+-["Statues", color(80, 255, 80)]
+[#nm:"Faceless Idol", #tp:"variedSoft", #pxlSize:point(258, 308), #vars:6, #random:0, #depth:10, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #colorize:0, #tags:[], #notes:[]]
+[#nm:"Head Statue", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]
+[#nm:"Head Statue 2", #tp:"soft", #depth:10, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #tags:[], #notes:[]]

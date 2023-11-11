@@ -1,0 +1,2 @@
+-["Trans flag", color(80, 255, 80)]
+[#nm:"TransFlag", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5, 5), #repeatL:[1], #vars:2, #random:0, #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[RETURN & QUOTE & "Hold love in your hearts and show kindness to others." & QUOTE & " (Wrayk quote)" & RETURN]]
