@@ -1150,6 +1150,7 @@
 [#nm:"CTile Offset Gone L", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"CTile Offset Gone R", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Lambo 25x7x8", #sz:point(25,7), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"crystal 18x25x6", #sz:point(18,25), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,2,1,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["effectColorA", "notTrashProp", "nonSolid"]]
 
 -["Modded Fences", color(74, 1, 250)]
 [#nm:"polefenceM", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[0,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
@@ -1544,7 +1545,7 @@
 [#nm:"Cross Beam Crossed", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Cross Beam Crossed Distant", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[9, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
--[Transformers, color(0, 180, 255)]
+-["Transformers", color(0, 180, 255)]
 [#nm:"Power Transformer Box", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,7,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"PW_Power Coil Top", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"PW_Power Coil", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,1,2,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
