@@ -15,4 +15,4 @@ Thanks to:
 - Joar for all the vanilla tiles 
 - MerFaruk for the tiles in the categories "Mer's PlatedBadPack", "Misc 3" and for the props in the categories "Mer's Flesh Hell" ,"Mer's SpikyStoners" ,"Mer's SandStones" ,"Mer's Cog-Walls"
 - Mojosoup for the tiles "Community Misc 3"
-- DryCryCrystal for the tiles "AI Chamber Screen Tile Set"
+- DryCryCrystal for the tiles "AI Chamber Screen Tile Set" "Transformers"
