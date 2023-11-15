@@ -300,6 +300,10 @@
 [#nm:"RF Background", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(50,24), #repeatL:[10], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Large Ice", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(50,15), #repeatL:[10], #tags:["effectColorA","notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Mega Sporeball", #tp:"variedSoft", #pxlSize:point(340, 340), #vars:6, #random:0, #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.9, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
+[#nm:"Ogscule", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+[#nm:"Lizard statue 1", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+[#nm:"Lizard statue 2", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+#nm:"DragonHead2", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 
 -["Dish", color(180, 255, 255)]
 [#nm:"dish", #tp:"standard", #colorTreatment:"standard", #sz:point(5,4), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
