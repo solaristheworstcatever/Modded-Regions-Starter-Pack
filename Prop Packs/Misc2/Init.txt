@@ -13,3 +13,7 @@
 [#nm:"Lizard statue 1", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"Lizard statue 2", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 [#nm:"DragonHead2", #tp:"soft", #depth:5, #round:0, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+[#nm:"Turret26x15x10", #tp:"standard", #colorTreatment:"standard", #sz:point(26,15), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Turret2_26x15x10", #tp:"standard", #colorTreatment:"standard", #sz:point(26,15), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Satellite_Dish30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Satellite_Dish2_30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
