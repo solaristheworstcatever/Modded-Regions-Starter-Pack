@@ -26,3 +26,8 @@
 [#nm:"ORB10x10", #tp:"variedSoft", #pxlSize:point(200, 200), #vars:7, #random:1, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:1, #shadowBorder:1, #smoothShading:20, #colorize:0, #tags:["randomFlipX"], #notes:[]]
 [#nm:"foliage", #tp:"variedSoft", #pxlSize:point(100, 100), #vars:8, #random:1, #depth:0, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:1, #shadowBorder:1, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
 [#nm:"foliageTuft", #tp:"variedSoft", #pxlSize:point(200, 200), #vars:20, #random:1, #depth:3, #round:0, #contourExp:1, #selfShade:0, #highLightBorder:1.0, #depthAffectHilites:1, #shadowBorder:1, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
+[#nm:"rff4x4colorB", #tp:"variedStandard", #colorTreatment:"standard", #bevel:3, #sz:point(4,4), #repeatL:[1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX", "effectColorB"], #layerExceptions:[], #notes:[]]
+[#nm:"rff8x8colorB", #tp:"variedStandard", #colorTreatment:"standard", #bevel:3, #sz:point(8,8), #repeatL:[1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX", "effectColorB"], #layerExceptions:[], #notes:[]]
+[#nm:"rff10x10colorB", #tp:"variedStandard", #colorTreatment:"standard", #bevel:6, #sz:point(10,10), #repeatL:[1,1,1,1,1,1], #vars:20, #random:1, #colorize:0, #tags:["randomFlipX", "effectColorB"], #layerExceptions:[], #notes:[]]
+[#nm:"rff20x20colorB", #tp:"variedStandard", #colorTreatment:"standard", #bevel:6, #sz:point(20,20), #repeatL:[1,1,1,1,1,1], #vars:10, #random:1, #tags:["randomFlipX", "effectColorB"], #layerExceptions:[], #notes:[]]
+
