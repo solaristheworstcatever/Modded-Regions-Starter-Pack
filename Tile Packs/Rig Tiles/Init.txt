@@ -1,5 +1,5 @@
 -["Rig Tiles", color(23, 40, 170)]
-[#nm:"Sheet Metal Roof", #sz:point(1,3), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Sheet Metal Roof Rig", #sz:point(1,3), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 [#nm:"Rig Diagonal Beam R", #sz:point(2,2), #specs:[1,5,2,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Rig Diagonal Beam R Up Corner", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
