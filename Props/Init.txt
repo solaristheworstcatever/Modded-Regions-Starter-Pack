@@ -310,6 +310,10 @@
 [#nm:"Satellite_Dish2_30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"80x80_Fan", #tp:"standard", #colorTreatment:"standard", #sz:point(80,80), #repeatL:[6,4,6,4,10], #tags:[], #layerExceptions:[], #notes:[]]
 
+-["Broken Signs props", color(222, 188, 129)]
+[#nm:"Dead Circular Sign GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"Dead Circular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Dead Big Western Sign Tilted", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(4,3), #repeatL:[1,1], #vars:20, #random:1, #tags:["randomRotat", "snapToGrid"], #layerExceptions:[], #notes:[]]
 
 -["Dish", color(180, 255, 255)]
 [#nm:"dish", #tp:"standard", #colorTreatment:"standard", #sz:point(5,4), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
