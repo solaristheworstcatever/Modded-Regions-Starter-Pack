@@ -310,6 +310,16 @@
 [#nm:"Satellite_Dish2_30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"80x80_Fan", #tp:"standard", #colorTreatment:"standard", #sz:point(80,80), #repeatL:[6,4,6,4,10], #tags:[], #layerExceptions:[], #notes:[]]
 
+-["Custom Destruction", color(222, 188, 129)]
+[#nm:"circlehole 2x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 3x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 4x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 5x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 6x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 8x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 12x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"circlehole 16x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+
 -["Broken Signs props", color(222, 188, 129)]
 [#nm:"Dead Circular Sign GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
 [#nm:"Dead Circular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
