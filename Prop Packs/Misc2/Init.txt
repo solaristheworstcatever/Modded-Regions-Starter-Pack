@@ -18,3 +18,6 @@
 [#nm:"Satellite_Dish30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Satellite_Dish2_30x38x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,38), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"80x80_Fan", #tp:"standard", #colorTreatment:"standard", #sz:point(80,80), #repeatL:[6,4,6,4,10], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Brain 30x30x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,30), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Upper[Extra] 20x20x6", #tp:"standard", #colorTreatment:"standard", #sz:point(20,20), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Capsule 8x16x6", #tp:"standard", #colorTreatment:"standard", #sz:point(8,16), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
