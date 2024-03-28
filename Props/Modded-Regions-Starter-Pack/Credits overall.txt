@@ -1,9 +1,0 @@
-Thanks to everyone, who made this possible with all your kind donations but the biggest person I want to give credit to is M4rbleL1ne#7738 for making the original tile and props repo in the first place and letting me help with it and putting up with my crap he,s a real good sport. 
-I hope to update this repo everytime a new tile/prop/level editor project file releases. So that in the future they don't get covered up by messages in the Rain World Main Discord Server in the hopes that nothing gets lost to time!
-I hope this repo will help you in your level editing journey, whether your a person whose been modding since 2017 or a person who just started level editing and found this repo.
-
-
-
-Have fun level editing:D I wish you the best of luck in your journey 
-
-Best wishes Solar
