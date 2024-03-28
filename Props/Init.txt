@@ -312,6 +312,12 @@
 [#nm:"Brain 30x30x10", #tp:"standard", #colorTreatment:"standard", #sz:point(30,30), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Upper[Extra] 20x20x6", #tp:"standard", #colorTreatment:"standard", #sz:point(20,20), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Capsule 8x16x6", #tp:"standard", #colorTreatment:"standard", #sz:point(8,16), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Karma Circular Sign GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:6, #random:1, #tags:["effectColorA", "effectColorB", "snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"Karma Circular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:6, #random:1, #tags:["effectColorA", "effectColorB"], #layerExceptions:[], #notes:[]]
+[#nm:"Squircular Sign GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorA", "notTrashProp", "snapToGrid"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
+[#nm:"Squircular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
+[#nm:"Squircular Sign B GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp", "snapToGrid"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
+[#nm:"Squircular Sign B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
 
 -["Custom Destruction", color(222, 188, 129)]
 [#nm:"circlehole 2x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
