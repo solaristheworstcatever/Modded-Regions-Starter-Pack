@@ -2,7 +2,7 @@
 [#nm:"Decorated Stone N", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Decorated Stone S", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
-[#nm:"Small_Stone_Marked", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Small Stone Marked", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Plain Stone Tile", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
 [#nm:"Smooth Stone Top Solid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

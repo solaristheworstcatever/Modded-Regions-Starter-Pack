@@ -1,0 +1,8 @@
+-["Dark Tiles", color(0, 10, 255)]
+[#nm:"Dark Blank Big", #sz:point(5,5), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank CornA", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank CornB", #sz:point(1,1), #specs:[4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank CornC", #sz:point(1,1), #specs:[5], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank CornD", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Dark Blank Med", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
