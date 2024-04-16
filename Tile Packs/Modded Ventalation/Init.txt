@@ -15,6 +15,5 @@
 [#nm:"Vent End E Long", #sz:point(4,4), #specs:[1,1,1,1, 1,1,1,4, 1,1,4,0, 1,4,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"big wall vent window", #sz:point(6,6), #specs:[-1,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  -1,0,0,0,0,-1], #specs2:[-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1], #tp:"voxelStruct", #repeatL:[6, 1, 1, 1, 1, 10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"big wall vent window", #sz:point(6,6), #specs:[-1,0,0,0,0,-1,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  0,0,0,0,0,0,  -1,0,0,0,0,-1], #specs2:[-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1], #tp:"voxelStruct", #repeatL:[6, 1, 1, 1, 1, 10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"VentToPipe N", #sz:point(4,2), #specs:[3,1,1,1,1,1,2,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-[#nm:"VentToPipe S", #sz:point(4,2), #specs:[1,5,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
+[#nm:"vent small hub grate", #sz:point(4,4), #specs:[1,1,1,1, 1,1,1,1, 1,1,1,1, 1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Vent Front Exhaust", #sz:point(4,3), #specs:[1,0,0,1,0,0,1,0,0,1,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]

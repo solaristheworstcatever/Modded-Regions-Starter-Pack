@@ -1,0 +1,5 @@
+-["Wrayk Fans", color(222, 188, 129)]
+[#nm:"Small Fan Blades", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1], #tags:["randomFlipX", "randomFlipY", "snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"Mega Fan Blades", #tp:"standard", #colorTreatment:"standard", #sz:point(7,7), #repeatL:[1], #tags:["randomFlipX", "randomFlipY"], #layerExceptions:[], #notes:[]]
+[#nm:"Mega Fan One Layer", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[1,1,7,1], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"Mega Fan Two Layer", #tp:"standard", #colorTreatment:"standard", #sz:point(10,10), #repeatL:[1,1,5,2,1,3,6,1], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
