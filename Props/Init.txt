@@ -320,7 +320,7 @@
 [#nm:"Squircular Sign B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
 
 -["Drip Goku", color(80, 255, 80)]
-[#nm:"DripGoku", #tp:"standard", #colorTreatment:"standard", #sz:point(27,45), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:[He's to powerful he get's his own category]]
+[#nm:"DripGoku", #tp:"standard", #colorTreatment:"standard", #sz:point(27,45), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:["He's to powerful he gets his own category"]]
 
 -["ComMisc 2", color(80, 255, 80)]
 [#nm:"Helicopter", #tp:"standard", #colorTreatment:"standard", #sz:point(38,12), #repeatL:[1,1,1,1,5], #tags:[], #layerExceptions:[], #notes:[]]
