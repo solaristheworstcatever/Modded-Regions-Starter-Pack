@@ -1,0 +1,7 @@
+-["The Mast", color(180, 255, 80)]
+[#nm:"TM_deerskull", #tp:"standard", #colorTreatment:"standard", #sz:point(7,9), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"XM_pillartile", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[10], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"TM_C15_tankprop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"TM_C07_tankprop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"TM_B03_antennaeprop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"TM_A02_signprop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[6], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]

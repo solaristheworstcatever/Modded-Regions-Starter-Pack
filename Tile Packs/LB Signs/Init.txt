@@ -1,7 +1,0 @@
--["LB Signs", color(240, 75, 75)]
-[#nm:"Big Sign B", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:0, #tp:"box", #bfTiles:1, #rnd:1, #ptPos:0, #tags:["Big Sign B", "notTrashProp"]]
-[#nm:"Small Asian Sign B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"box", #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Small Asian Sign B", "notTrashProp"]]
-[#nm:"Small Asian Sign on wall B", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "small asian sign on wall B", "notTrashProp"]]
-[#nm:"Big Western Sign B", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Big Western Sign B", "notTrashProp"]]
-[#nm:"Big Western Sign Tilted B", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Big Western Sign Tilted B", "notTrashProp"]]
-[#nm:"Larger Sign B", #sz:point(4,5), #specs:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["Larger Sign B", "notTrashProp"]]

@@ -1,0 +1,7 @@
+-["Hanging Gardens Plants", color(80, 255, 80)]
+[#nm:"Vine1", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(3,6), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Vine2", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(2,4), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Vine3", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(2,3), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Vine Roots", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(2,2), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Dandelion Bud", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(1,1), #repeatL:[1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Dandelion Puff", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(4,4), #repeatL:[1,1,1,1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]]

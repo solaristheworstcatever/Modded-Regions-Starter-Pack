@@ -1,4 +1,0 @@
--["LB Alt Clamps", color(75, 75, 240)]
-[#nm:"Horizontal Block Clamp", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Horizontal Block Clamp S", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Horizontal Block Clamp N", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

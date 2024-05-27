@@ -1,0 +1,7 @@
+-["Stone Bricks", color(127, 105, 250)]
+[#nm:"BigStoneBrick", #sz:point(4, 2), #specs:[1,1,1,1, 1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BigStoneBrickLHalf", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BigStoneBrickRHalf", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BigStoneBrickLEnd", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BigStoneBrickREnd", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BigStoneSquare", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]

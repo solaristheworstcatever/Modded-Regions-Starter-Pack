@@ -1,6 +1,0 @@
--["More Harvester Tiles", color(40, 70, 150)]
-[#nm:"Harvester Suspender 2", #sz:point(2,1), #specs:[0, 0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"HAC End Piece 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Harvester Arm Connector 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Harvester Platform C", #sz:point(1,5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Harvester Platform D", #sz:point(1,5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

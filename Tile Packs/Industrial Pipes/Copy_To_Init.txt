@@ -1,0 +1,35 @@
+-["Industrial Pipes", color(189, 1, 18)]
+[#nm:"Plain Pipe WS", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Plain Pipe WN", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Plain Pipe ES", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Plain Pipe EN", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Vertical Plain Pipe Holder", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Horizontal Plain Pipe Holder", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Embedded Horizontal Plain Pipes A", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Horizontal Plain Pipes B", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Vertical Plain Pipes A", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Vertical Plain Pipes B", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Thick Plain Pipe Vertical", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe Horizontal", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Thick Plain Pipe WS", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe WN", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe ES", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe EN", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Thick Plain Pipe Vertical Small Holder", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe Vertical Big Holder", #sz:point(2,5), #specs:[1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe Horizontal Small Holder", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thick Plain Pipe Horizontal Big Holder", #sz:point(5,2), #specs:[1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+[#nm:"Embedded Thick Plain Pipes Horizontal A", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Thick Plain Pipes Horizontal B", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Thick Plain Pipes Vertical A", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Embedded Thick Plain Pipes Vertical B", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,3,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Ridgy Pipe", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Ridgy Pipe Top", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+
+
