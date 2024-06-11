@@ -1,0 +1,8 @@
+-["Gilded Sanctuary Props", color(180, 255, 80)]
+[#nm:"GS Roots", #tp:"variedSoft", #pxlSize:point(80, 180), #vars:8, #random:0, #depth:7, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:0.5, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:10, #colorize:1, #tags:["postEffects"], #notes:[]]
+[#nm:"Small_Rocks", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(11,5), #repeatL:[1,1,1], #vars:6, #random:1, #tags:["randomFlipX"], #layerExceptions:[], #notes:[]]
+[#nm:"Arch_1_Prop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"TwoBalls_1_Prop", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(70, 40), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"Big_Root_Bundle", #tp:"soft", #depth:20, #round:1, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0, #shadowBorder:0.8, #smoothShading:5, #colorize:0, #tags:[], #notes:[]]
+[#nm:"GS Plant Base", #tp:"variedSoft", #pxlSize:point(100, 160), #vars:15, #random:0, #depth:6, #round:1, #contourExp:1.2, #selfShade:1, #highLightBorder:1.2, #depthAffectHilites:0.9, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
+[#nm:"GS Plant Sprout", #tp:"variedSoft", #pxlSize:point(50, 160), #vars:15, #random:0, #depth:4, #round:1, #contourExp:1.2, #selfShade:1, #highLightBorder:1.2, #depthAffectHilites:0.9, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
