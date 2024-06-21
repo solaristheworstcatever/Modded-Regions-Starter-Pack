@@ -62,6 +62,7 @@
 [#nm:"Squircular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorA", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
 [#nm:"Squircular Sign B GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp", "snapToGrid"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
 [#nm:"Squircular Sign B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
+[#nm:"steel cable", #tp:"soft", #depth:10, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
 
 -["Drip Goku", color(80, 255, 80)]
 [#nm:"DripGoku", #tp:"standard", #colorTreatment:"standard", #sz:point(27,45), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:["He's to powerful he gets his own category"]]
@@ -218,6 +219,7 @@
 [#nm:"Shroomy5", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1], #tags:["effectColorB", "randomFlipX", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"BlueFruit", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Hoopweed", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1], #vars:15, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"HeavenPlant", #tp:"standard", #colorTreatment:"standard", #sz:point(15,20), #repeatL:[1,1,1,1,1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]
 
 -["Plants 3", color(80, 255, 80)]
 [#nm:"Cabinet plants 2", #tp:"variedSoft", #pxlSize:point(100, 180), #vars:3, #random:0, #depth:6, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["postEffects"], #notes:[]]
@@ -361,6 +363,16 @@
 [#nm:"circlehole 8x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
 [#nm:"circlehole 12x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
 [#nm:"circlehole 16x", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
+[#nm:"SingleCrack1", #tp:"antimatter", #depth:3, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"SingleCrack2", #tp:"antimatter", #depth:3, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"LongCrack", #tp:"antimatter", #depth:3, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"YCrack", #tp:"antimatter", #depth:3, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"JaggedCrack", #tp:"antimatter", #depth:3, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"ThinCrack1", #tp:"antimatter", #depth:2, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"ThinCrack2", #tp:"antimatter", #depth:2, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"ThinCrackBranches", #tp:"antimatter", #depth:2, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"ThinSnakyCrack", #tp:"antimatter", #depth:2, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
+[#nm:"ThinCurvedCrack", #tp:"antimatter", #depth:2, #contourExp:2.2, #tags:["randomFlipX", "randomFlipY"], #notes:[]]
 
 -["Flesh Props", color(180, 0, 0)]
 [#nm:"SideFlesh18x13x6", #tp:"standard", #colorTreatment:"standard", #sz:point(18,13), #repeatL:[1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]

@@ -27,4 +27,4 @@
 [#nm:"Squircular Sign B", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:14, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:["Disclaimer: not actually a squircle, really a rounded square"]]
 [#nm:"Karma Circular Sign GridSnap", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:6, #random:1, #tags:["effectColorA", "effectColorB", "snapToGrid"], #layerExceptions:[], #notes:[]]
 [#nm:"Karma Circular Sign", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #vars:6, #random:1, #tags:["effectColorA", "effectColorB"], #layerExceptions:[], #notes:[]]
-
+[#nm:"steel cable", #tp:"soft", #depth:10, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]

@@ -62,3 +62,7 @@
 [#nm:"Tank Left Segment 4x", #sz:point(1,4), #specs:[3,1,1,5], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Tank Segment Horizontal 4x", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Tank Right Segment 4x", #sz:point(1,4), #specs:[2,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Substation Tank Left", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Substation Tank Middle", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Substation Tank Right", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Substation Tank Mid Support",#sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

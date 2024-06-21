@@ -37,6 +37,7 @@
 [#nm:"Heat Pipe Horizontal", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Heat Pipe Vertical", #sz:point(2, 1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Thick Pipe End Piece Open", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"five tile cylinder vertical", #sz:point(5,1), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Disc Pipe Vertical", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"3DPole", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"5 Tile Turbine Platform", #sz:point(5,2), #specs:[1,5,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]

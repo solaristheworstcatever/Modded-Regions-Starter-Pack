@@ -12,3 +12,4 @@
 [#nm:"Shroomy5", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1], #tags:["effectColorB", "randomFlipX", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"BlueFruit", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Hoopweed", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1], #vars:15, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
+[#nm:"HeavenPlant", #tp:"standard", #colorTreatment:"standard", #sz:point(15,20), #repeatL:[1,1,1,1,1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]
