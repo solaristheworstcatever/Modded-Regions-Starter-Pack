@@ -65,4 +65,4 @@
 [#nm:"Substation Tank Left", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Substation Tank Middle", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Substation Tank Right", #sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Substation Tank Mid Support",#sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Substation Tank Mid Support",#sz:point(1, 5), #specs:[1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2],#bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

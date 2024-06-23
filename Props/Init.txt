@@ -219,7 +219,7 @@
 [#nm:"Shroomy5", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1], #tags:["effectColorB", "randomFlipX", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"BlueFruit", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
 [#nm:"Hoopweed", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1], #vars:15, #random:1, #tags:["effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]
-[#nm:"HeavenPlant", #tp:"standard", #colorTreatment:"standard", #sz:point(15,20), #repeatL:[1,1,1,1,1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]
+[#nm:"HeavenPlant", #tp:"standard", #colorTreatment:"standard", #sz:point(15,20), #repeatL:[1,1,1,1,1], #tags:["effectColorB","notTrashProp"], #layerExceptions:[], #notes:[]]
 
 -["Plants 3", color(80, 255, 80)]
 [#nm:"Cabinet plants 2", #tp:"variedSoft", #pxlSize:point(100, 180), #vars:3, #random:0, #depth:6, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.6, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["postEffects"], #notes:[]]
