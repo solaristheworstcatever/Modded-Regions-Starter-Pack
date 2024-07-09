@@ -42,4 +42,7 @@
 [#nm:"Background AC Fan ALT", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Foreground AC Fan ALT", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Background AC Fan Square ALT", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-[#nm:"Foreground AC Fan Square ALT", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Foreground AC Fan Square ALT", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]][#nm:"electric motor 1", #sz:point(3,3), #specs:[-1,-1,1, 1,1,1, 1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,2,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"factrory grates", #sz:point(3,3), #specs:[0,0,0, 0,0,0, 0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,1,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
+[#nm:"ceiling wheelset", #sz:point(4,2), #specs:[1,1, 1,1, 1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 3, 2, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"ceiling wheelset flipped", #sz:point(4,2), #specs:[1,1, 1,1, 1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 3, 2, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]

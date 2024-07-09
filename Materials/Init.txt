@@ -14,6 +14,7 @@
 [#nm:"BandedConcrete", #color:color(100, 185, 245), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(9, 9), #repeatL:[1,1], #tags:[]]]
 [#nm:"ColorATinySigns", #color:color(210, 0, 210), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorA"]], #texture:[#sz:point(52, 40), #repeatL:[1], #tags:["effectColorA"]]]
 [#nm:"ColorBTinySigns", #color:color(0, 210, 210), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorB"]], #texture:[#sz:point(52, 40), #repeatL:[1], #tags:["effectColorB"]]]
+[#nm:"ChaoticBricks", #color:color(210, 180, 180), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(5, 5), #repeatL:[1,1], #tags:[]]]
 
 -Mer's Materials
 [#nm:"WeirdConcreate", #color:color(66, 245, 215), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(13, 13), #repeatL:[1,5], #tags:[]]]

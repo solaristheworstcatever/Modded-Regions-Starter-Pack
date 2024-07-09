@@ -8,3 +8,5 @@
 [#nm:"Bottlecap", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(6,6), #repeatL:[1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"PistonWheel", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,3), #repeatL:[1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
 [#nm:"BigPistonWheel", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(5,5), #repeatL:[1,1,1], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
+[#nm:"Bigger Wheel wheel", #tp:"standard", #colorTreatment:"standard", #sz:point(20,20), #repeatL:[3,7], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
+[#nm:"Bigger Wheel wheel 2", #tp:"standard", #colorTreatment:"standard", #sz:point(20,20), #repeatL:[7,3], #tags:["randomRotat"], #layerExceptions:[], #notes:[]]
