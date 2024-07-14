@@ -583,36 +583,31 @@
 [#nm:"mini vent grate horizontal", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 4, 2, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"alt small vent horizontal", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"alt small vent vertical", #sz:point(2,4), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"small vent horizontal", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent vertical", #sz:point(2,4), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"small vent filler horizontal", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent filler vertical", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"small vent ES", #sz:point(2,2), #specs:[3,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent EN", #sz:point(2,2), #specs:[1,5,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent WS", #sz:point(2,2), #specs:[1,1,2,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent WN", #sz:point(2,2), #specs:[1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"alt small vent ES", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 2, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"alt small vent EN", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 2, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"alt small vent WS", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 2, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"alt small vent WN", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 2, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
 [#nm:"hub small vent", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 7, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-
 [#nm:"small vent holder horizontal", #sz:point(4,2), #specs:[0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 4, 1, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"small vent holder vertical", #sz:point(2,4), #specs:[0,0,0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 4, 1, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
 [#nm:"small vent end E", #sz:point(2,2), #specs:[1,1,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"small vent end W", #sz:point(2,2), #specs:[0,0,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
 [#nm:"small vent end N", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"small vent end S", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 2, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
-
 [#nm:"small vent grate horizontal", #sz:point(4,2), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"small vent grate vertical", #sz:point(2,4), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 6, 1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"chimney segment better", #sz:point(16,5), #specs:[-1,-1,-1,-1,-1, -1,-1,-1,-1,-1, -1,-1,-1,-1,-1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, -1,-1,-1,-1,-1, -1,-1,-1,-1,-1, -1,-1,-1,-1,-1], #specs2:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"mega chimney A better", #sz:point(22,10), #specs:[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,  1,1,1,1,1,1,1,1,1,1,    1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,   1,1,1,1,1,1,1,1,1,1,  -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,  -1,-1,-1,-1,-1,-1,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"mega chimney B better", #sz:point(28,10), #specs:[-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,    -1,-1,-1,-1,-1, -1,-1,-1,-1,-1,-1,-1,-1,-1,-1, -1,-1,-1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"mega chimney C better", #sz:point(30,10), #specs:[1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1,  1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Ventilation 3", color(255, 0, 165)]
 [#nm:"Perforated Wall Vent", #sz:point(4,4), #specs:[0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6, 1, 1, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -673,6 +668,8 @@
 [#nm:"Exhaust W", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Exhaust Horizontal", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Exhaust E", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Exhaust box W", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Exhaust box E", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 
 -["Ventish", color(255, 0, 165)]
 [#nm:"BG RecVent Slant", #sz:point(2,1), #specs:[0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[7, 1, 1, 1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
@@ -1004,6 +1001,8 @@
 [#nm:"6 Tile Turbine Platform A", #sz:point(6,2), #specs:[1,5,1,1,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"6 Tile Turbine Platform B", #sz:point(6,2), #specs:[1,5,1,1,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Bigger Wheel base", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Thin Pillar Segment", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thin Pillar divider", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Misc 7", color(66, 132, 107)]
 [#nm:"empty", #sz:point(1, 1),#sz:point(1, 1), #specs:[1], #specs2:0,#tp:"voxelStruct", #repeatL:[1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

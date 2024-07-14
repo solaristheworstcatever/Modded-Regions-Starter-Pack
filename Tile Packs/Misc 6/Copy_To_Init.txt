@@ -45,3 +45,5 @@
 [#nm:"6 Tile Turbine Platform A", #sz:point(6,2), #specs:[1,5,1,1,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"6 Tile Turbine Platform B", #sz:point(6,2), #specs:[1,5,1,1,1,1,1,1,1,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Bigger Wheel base", #sz:point(6,6), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Thin Pillar Segment", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Thin Pillar divider", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,8,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
