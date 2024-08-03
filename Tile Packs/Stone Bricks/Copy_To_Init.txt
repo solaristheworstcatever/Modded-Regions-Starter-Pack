@@ -5,3 +5,4 @@
 [#nm:"BigStoneBrickLEnd", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
 [#nm:"BigStoneBrickREnd", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
 [#nm:"BigStoneSquare", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"BrickWall", #sz:point(8,8), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
