@@ -2026,6 +2026,8 @@
 [#nm:"Sponge Reversed", #sz:point(3,3), #specs:[1,1,1,0,0,0,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Sponge Open", #sz:point(3,3), #specs:[1,1,1,0,0,0,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Sponge Nonsolid", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:2, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Coral Chamber Small", #sz:point(3,3), #specs:[4,0,2,0,0,0,5,0,3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Coral Chamber Large", #sz:point(5,5), #specs:[4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Coral Shelf One", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:4, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Coral Shelf Two", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:4, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Coral Shelf Three", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:4, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
