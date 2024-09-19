@@ -1,5 +1,0 @@
--["Doors", color (60, 40 ,190)]
-[#nm:"Background Door", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Background Door Frame Only", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Background Door Glass", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Background Door Window", #sz:point(5, 8), #specs:[1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1 ,1,1,1,1,1,1,1,1], #specs2:0, #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

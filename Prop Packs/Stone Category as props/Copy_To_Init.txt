@@ -1,9 +1,0 @@
--["Stone Category as props", color(222, 188, 129)]
-
-[#nm:"Small Stone", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[10], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Square Stone", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(4,4), #repeatL:[10], #vars:3, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Tall Stone", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(4,5), #repeatL:[10], #vars:3, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Wide Stone", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,4), #repeatL:[10], #vars:3, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Big Stone", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[10], #vars:3, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Rounded Rock", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(6,5), #repeatL:[10], #vars:3, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"BigRockProp", #tp:"standard", #colorTreatment:"standard", #sz:point(14,24), #repeatL:[3,7], #tags:[], #layerExceptions:[], #notes:[]]

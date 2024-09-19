@@ -1,6 +1,0 @@
--["Rust", color(180, 255, 255)]
-[#nm:"RustA", #tp:"variedDecal", #pxlSize:point(100, 300), #vars:6, #random:1, #depth:10, #tags:["randomFlipX"], #notes:[]]
-[#nm:"GreenSurface", #tp:"simpleDecal", #depth:30, #tags:["randomFlipX"], #notes:[]]
-[#nm:"CicadaPoopA", #tp:"simpleDecal", #depth:30, #tags:["randomRotat", "randomFlipX", "randomFlipY"], #notes:[]]
-[#nm:"CicadaPoopB", #tp:"variedDecal", #pxlSize:point(40, 250), #vars:6, #random:1, #depth:20, #tags:["randomFlipX"], #notes:[]]
-[#nm:"Dirt1", #tp:"simpleDecal", #depth:10, #tags:["randomFlipX", "randomFlipY", "customColor"], #notes:[]]

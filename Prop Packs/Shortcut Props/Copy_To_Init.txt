@@ -1,8 +1,0 @@
--["Shortcut Props", color(180, 255, 80)]
-[#nm:"Shortcut Square", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Dot Vertical", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Dot Horizontal", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,9], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Entrance", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[1,7,2], #vars:4, #random:1, tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Arrow", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[1,7,2], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Entrance Conn", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[1,7,2], #vars:4, #random:1, tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Shortcut Arrow Conn", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[1,7,2], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
