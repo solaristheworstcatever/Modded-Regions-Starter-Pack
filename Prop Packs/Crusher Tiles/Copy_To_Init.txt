@@ -1,3 +1,0 @@
--["Crusher Tiles", color(80, 255, 80)]
-[#nm:"Machine Arm 1", #tp:"standard", #colorTreatment:"standard", #sz:point(3,9), #repeatL:[1,3], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Machine Arm 2", #tp:"standard", #colorTreatment:"standard", #sz:point(3,10), #repeatL:[1,4], #tags:[], #layerExceptions:[], #notes:[]]

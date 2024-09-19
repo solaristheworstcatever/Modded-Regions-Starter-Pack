@@ -1,0 +1,5 @@
+To use an alternative init, rename it to Init.txt
+
+Init.txt : Most organized and sorted init
+ClassicInit.txt : Updated version of the init that existed prior to the reorganization
+ModdedSeparatedInit.txt : Updated version of an old init with modded tiles separeted form the vanilla ones

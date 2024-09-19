@@ -1,2 +1,0 @@
--["Lights & Lanterns", color(255, 0, 0)]
-[#nm:"Wall Mounted Fixture", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,1,4], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]

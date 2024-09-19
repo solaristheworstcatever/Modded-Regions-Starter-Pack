@@ -1,8 +1,0 @@
--["Misc", color(180, 255, 255)]
-[#nm:"Circular Sign GridSnap", #tp:"standard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #tags:["Circular Sign", "snapToGrid"], #layerExceptions:[], #notes:[]]
-[#nm:"Circular Sign", #tp:"standard", #colorTreatment:"standard", #sz:point(6,6), #repeatL:[1,1,1], #tags:["Circular Sign"], #layerExceptions:[], #notes:[]]
-[#nm:"LFcloth", #tp:"variedSoft", #pxlSize:point(650, 300), #vars:6, #random:0, #depth:4, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:1, #tags:["postEffects"], #notes:[]]
-[#nm:"Hanging Cloth", #tp:"variedSoft", #pxlSize:point(251, 100), #vars:0, #random:0, #depth:3, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:0.2, #shadowBorder:0.8, #smoothShading:2, #colorize:1, #tags:["postEffects", "randomFlipX"], #notes:[]]
-[#nm:"Gate Frame", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,7), #repeatL:[2], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArchiStuff16x25x8", #tp:"standard", #colorTreatment:"standard", #sz:point(16,25), #repeatL:[1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"BigOrnamentalDoor20x25x8", #tp:"standard", #colorTreatment:"standard", #sz:point(20,25), #repeatL:[1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]

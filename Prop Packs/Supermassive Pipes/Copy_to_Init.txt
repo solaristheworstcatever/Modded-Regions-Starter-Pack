@@ -1,7 +1,0 @@
--["Supermassive Pipes", color(236, 244, 215)]
-[#nm:"ArteryReinforcedHorizontal", #tp:"standard", #colorTreatment:"standard", #sz:point(3,60), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArteryBlankHorizontal", #tp:"standard", #colorTreatment:"standard", #sz:point(3,60), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArteryReinforcedWeakHorizontal", #tp:"standard", #colorTreatment:"standard", #sz:point(3,60), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArteryReinforcedVertical", #tp:"standard", #colorTreatment:"standard", #sz:point(60,3), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArteryBlankVertical", #tp:"standard", #colorTreatment:"standard", #sz:point(60,3), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"ArteryReinforcedWeakVertical", #tp:"standard", #colorTreatment:"standard", #sz:point(60,3), #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
