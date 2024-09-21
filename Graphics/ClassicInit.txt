@@ -40,6 +40,7 @@
 [#nm:"Smooth Stone Bottom W Air", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Thin Stone", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
 [#nm:"Flat Stone", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"BigBrickAlt", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Stone Bricks", color(127, 105, 250)]
 [#nm:"BigStoneBrick", #sz:point(4, 2), #specs:[1,1,1,1, 1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
@@ -247,6 +248,10 @@
 [#nm:"FloorStrut", #sz:point(3,10), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Heatsink", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,2,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"ball bearing", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Bar H", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Screw Bar H", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Bar V", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Screw Bar V", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Sea Fort", color(0, 240, 69)]
 [#nm:"Sea Fort Catwalk R", #sz:point(14,14), #specs:[0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1], #specs2:[0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,0,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,10,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

@@ -893,6 +893,7 @@
 [#nm:"BigStoneBrickREnd", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
 [#nm:"BigStoneSquare", #sz:point(2, 2), #specs:[1,1, 1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:4, #ptPos:0, #tags:[]]
 [#nm:"BrickWall", #sz:point(8,8), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"BigBrickAlt", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Special Stone", color(165, 119, 213)]
 [#nm:"Decorated Stone N", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -1571,6 +1572,10 @@
 [#nm:"factrory grates", #sz:point(3,3), #specs:[0,0,0, 0,0,0, 0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,1,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid", "notTrashProp"]]
 [#nm:"Heatsink", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,2,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"ball bearing", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 4, 3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Bar H", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Screw Bar H", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Bar V", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Mold Metal Screw Bar V", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Modded Metal Construction", color(0, 10, 255)]
 [#nm:"Crosscube Empty", #sz:point(6,6), #specs:[1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1, 1,1,1,1,1,1], #specs2:[1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1, 1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
