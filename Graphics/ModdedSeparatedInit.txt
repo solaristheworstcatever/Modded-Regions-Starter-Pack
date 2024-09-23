@@ -636,7 +636,6 @@
 [#nm:"Tall Under Cooler", #sz:point(4,7), #specs:[1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1, 1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Dome U", #sz:point(11,11), #specs:[1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Dome D", #sz:point(11,11), #specs:[1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Big Dome C", #sz:point(11,11), #specs:[1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Iron Belly U", #sz:point(1,11), #specs:[1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Iron Belly D", #sz:point(1,11), #specs:[1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Plate To Iron Belly U", #sz:point(1,11), #specs:[1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
@@ -1668,6 +1667,7 @@
 [#nm:"ZapCoilDown", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"ZapCoilRight", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"ZapCoilLeft", #sz:point(4,1), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Big Dome C", #sz:point(11,11), #specs:[1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,4], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Broken Signs", color(222, 188, 129)]
 [#nm:"Dead Big Sign Top Left", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:1, #rnd:20, #ptPos:0, #tags:[]]
