@@ -256,6 +256,8 @@
 -["Gizmos", color(80, 255, 80)]
 [#nm:"Gate Frame", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,7), #repeatL:[2], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Big Drill Bit", #tp:"soft", #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.2, #shadowBorder:0.9, #smoothShading:2, #tags:[], #notes:[]]
+[#nm:"Exhaust Vent Plate", #tp:"standard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[2], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"Exhaust Vent Plate Varied Damaged", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5,5), #repeatL:[2], #vars:10, #random:1, #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
 [#nm:"Machine Arm 1", #tp:"standard", #colorTreatment:"standard", #sz:point(3,9), #repeatL:[1,3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Machine Arm 2", #tp:"standard", #colorTreatment:"standard", #sz:point(3,10), #repeatL:[1,4], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"bearing balls", #tp:"standard", #colorTreatment:"bevel", #bevel:2, #sz:point(3,3), #repeatL:[3,1,2,1], #tags:["randomRotat", "snapToGrid"], #layerExceptions:[], #notes:[]]
