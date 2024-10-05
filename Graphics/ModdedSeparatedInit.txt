@@ -1591,6 +1591,8 @@
 [#nm:"Solid Skinny Beam", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[3,4,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notProp"]]
 [#nm:"Solid Thick Beam", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notProp"]]
 [#nm:"Solid Fat Beam", #sz:point(2,3), #specs:[1,0,1,1,0,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,4,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notProp"]]
+[#nm:"Small Screw 1", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,5,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Small Screw 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,5,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Modded Metal Construction", color(0, 10, 255)]
 [#nm:"Crosscube Empty", #sz:point(6,6), #specs:[1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1, 1,1,1,1,1,1], #specs2:[1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1,  1,1,1,1,1,1, 1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
