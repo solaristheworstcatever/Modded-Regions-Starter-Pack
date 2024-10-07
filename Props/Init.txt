@@ -289,6 +289,8 @@
 [#nm:"pipishvent", #tp:"standard", #colorTreatment:"standard", #sz:point(14,14), #repeatL:[2,4,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"pipishvent dest", #tp:"antimatter", #depth:9, #contourExp:1.0, #tags:[], #notes:[]]
 [#nm:"pipishtunn", #tp:"standard", #colorTreatment:"standard", #sz:point(14,14), #repeatL:[2,8], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Billboard", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(2,5), #repeatL:[1,2], #vars:4, #random:1, #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Braids Tile Prop", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1], #vars:6, #random:0, #tags:[], #layerExceptions:[], #notes:[]]
 
 -["Antenna", color(180, 255, 255)]
 [#nm:"dish", #tp:"standard", #colorTreatment:"standard", #sz:point(5,4), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
