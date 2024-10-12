@@ -921,6 +921,7 @@
 [#nm:"Radiator", #sz:point(2, 4), #specs:[1,1,1,1 ,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Radiator Divider", #sz:point(1, 4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Breaker Switch", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,3,2,1], #bfTiles:1, #rnd:2, #ptPos:0, #tags:[]]
+[#nm:"Machine Support A", #sz:point(2,2), #specs:[1,0,1,0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:2, #rnd:1, #ptPos:0, #tags:["notTrashProp", "nonSolid"]]
 
 -["Fan Boxes", color(255, 160, 255)]
 [#nm:"Exhaust Vent Open", #sz:point(5,5), #specs:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1, 1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
@@ -1279,6 +1280,8 @@
 [#nm:"Titanfan", #sz:point(6,6), #specs:[1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1, 1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,4,1,1], #bfTiles:0, #rnd:3, #ptPos:0, #tags:[]]
 [#nm:"AC Machine bg", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[5,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"AC Unit", #sz:point(4,4), #specs:[3,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,3,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Background AC Fan", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Foreground AC Fan", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Background AC Fan Square", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Foreground AC Fan Square", #sz:point(3,2), #specs:[1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Background AC Fan ALT", #sz:point(3,2), #specs:[0,0,0,0,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
