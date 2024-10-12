@@ -166,7 +166,7 @@
 [#nm:"UG_SHROOM_R", #tp:"standard", #colorTreatment:"standard", #sz:point(10,6), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"shroomL", #tp:"variedStandard", #colorTreatment:"standard", #bevel:7, #sz:point(10,6), #repeatL:[0,1,1,1,1,1,1], #vars:5, #random:1, #colorize:0, #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"shroomR", #tp:"variedStandard", #colorTreatment:"standard", #bevel:7, #sz:point(10,6), #repeatL:[0,1,1,1,1,1,1], #vars:5, #random:1, #colorize:0, #tags:[], #layerExceptions:[], #notes:[]]
-[#nm:"Mega Sporeball", #tp:"variedSoft", #pxlSize:point(340, 340), #vars:6, #random:0, #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.9, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
+[#nm:"mega_sporeball", #tp:"variedSoft", #pxlSize:point(340, 340), #vars:6, #random:0, #depth:15, #round:1, #contourExp:0.8, #selfShade:1, #highLightBorder:0.4, #depthAffectHilites:0.9, #shadowBorder:0.8, #smoothShading:5, #colorize:1, #tags:["randomFlipX"], #notes:[]]
 [#nm:"Mush Walls", #tp:"variedSoft", #pxlSize:point(160, 500), #vars:2, #random:1, #depth:9, #round:0, #contourExp:1, #selfShade:1, #highLightBorder:1.0, #depthAffectHilites:1, #shadowBorder:1, #smoothShading:5, #colorize:0, #tags:["randomFlipX"], #notes:[]]
 
 -["Cold", color(0, 0, 255)]
