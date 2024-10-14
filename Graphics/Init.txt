@@ -1316,6 +1316,7 @@
 [#nm:"Dead Big Western Sign", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:1, #rnd:20, #ptPos:0, #tags:[]]
 [#nm:"Dead Big Western Sign Tilted", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Dead Larger Sign", #sz:point(4,5), #specs:[1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1, 1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,5], #bfTiles:0, #rnd:14, #ptPos:0, #tags:[]]
+[#nm:"Huge CircleSignBox", #sz:point(12,12), #specs:[1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1, 1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["More Tank Segments", color(224, 179, 204)]
 [#nm:"Tank Segment Ball", #sz:point(3,3), #specs:[3,1,5,1,1,1,2,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 1, 1, 1, 2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
