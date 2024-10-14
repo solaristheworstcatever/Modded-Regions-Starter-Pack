@@ -903,6 +903,8 @@
 [#nm:"Circle Support Base", #sz:point(3,3), #specs:[1,1,1, 1,1,1, 1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Circle Support Flat", #sz:point(3,10), #specs:[1,0,0,0,0,0,0,-1,-1,-1, 1,0,0,0,0,0,0,-1,-1,-1, 1,0,0,0,0,0,0,-1,-1,-1], #specs2:[1,1,1,1,0,0,0,0,-1,-1, 1,1,1,1,0,0,0,0,-1,-1, 1,1,1,1,0,0,0,0,-1,-1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Circle Support Flat Base", #sz:point(3,1), #specs:[1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Breeze Block D", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Breeze Block E", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Special Stone", color(165, 119, 213)]
 [#nm:"Decorated Stone N", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
@@ -1573,8 +1575,6 @@
 [#nm:"Train Tunnel Full Plain", #sz:point(2,19), #specs:[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], #specs2:[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1], #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Metal", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:0, #tp:"box", #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Big Metal Marked", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:0, #tp:"box", #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Breeze Block D", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Breeze Block E", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Banded Box 2x2", #sz:point(2,2), #specs:[1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Banded Box 3x3", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Banded Box 4x4", #sz:point(4,4), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
