@@ -47,9 +47,9 @@
 [#nm:"Disc Pipe 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 [#nm:"Heat Pipe Horizontal", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Heat Pipe Vertical", #sz:point(2, 1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"Closedgate", #sz:point(4,11), #specs:[-1,5,-1,-1,-1,-1,-1,-1,-1,3,-1 ,-1,1,1,1,1,1,1,1,1,1,-1 ,-1,1,1,1,1,1,1,1,1,1,-1 ,-1,4,-1,-1,-1,-1,-1,-1,-1,2,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[notTrashProp]]
-[#nm:"Opengate", #sz:point(6,4), #specs:[-1,-1,0,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[notTrashProp]]
-[#nm:"Gatebolt", #sz:point(2,2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[notTrashProp]]
+[#nm:"Closedgate", #sz:point(4,11), #specs:[-1,5,-1,-1,-1,-1,-1,-1,-1,3,-1 ,-1,1,1,1,1,1,1,1,1,1,-1 ,-1,1,1,1,1,1,1,1,1,1,-1 ,-1,4,-1,-1,-1,-1,-1,-1,-1,2,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Opengate", #sz:point(6,4), #specs:[-1,-1,0,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,-1,0 ,-1,-1,0,0], #specs2:0, #tp:"voxelStruct", #repeatL:[6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"Gatebolt", #sz:point(2,2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Heat Coil", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,4,2,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
 
 -["Mega Fake Battery", color(100, 140, 0)]
@@ -676,7 +676,7 @@
 [#nm:"Plate SE", #sz:point(1,3), #specs:[1, 1, 4], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Plate NW", #sz:point(1,3), #specs:[3, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Plate NE", #sz:point(1,3), #specs:[2, 1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 1, 5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
-[#nm:"platebolt", #sz:point(2,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"platebolt", #sz:point(2,1), #specs:[1, 1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"plate hole", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[3,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Machine Casings", color(134, 34, 34)]
@@ -1247,7 +1247,7 @@
 [#nm:"Cooler Support A", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooler Support B", #sz:point(3,2), #specs:[-1,1,1,1,-1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
--["MLA Mega Cooling Rods", color(100, 140, 0)]
+-["Mega Cooling Rods", color(100, 140, 0)]
 [#nm:"Cooling Rod 1x D", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Mega Cooling Rod 1x middle", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,8], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 [#nm:"Cooling Rod 1x U", #sz:point(1,4), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
