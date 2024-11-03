@@ -23,6 +23,11 @@
 [#nm:"ColorBTinySigns", #color:color(0, 210, 210), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:["effectColorB"]], #texture:[#sz:point(52, 40), #repeatL:[1], #tags:["effectColorB"]]]
 [#nm:"ChaoticBricks", #color:color(210, 180, 180), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(5, 5), #repeatL:[1,1], #tags:[]]]
 [#nm:"TiltedBricks45", #color:color(103, 103, 132), #block:[#repeatL:[1,8,1], #rnd:1, #tags:[]], #slope:[#repeatL:[1,8,1], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(7, 7), #repeatL:[1,9], #tags:[]]]
+[#nm:"BricksSeamless", #color:color(180, 90, 20), #floor:[#repeatL:[4,2,2,2], #rnd:2, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[10], #tags:[]]]
+[#nm:"BricksDamage", #color:color(160, 80, 15), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,6], #tags:[]]]
+[#nm:"BricksHeavyDamage", #color:color(140, 70, 10), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,2,4], #tags:[]]]
+[#nm:"BricksDestroyed", #color:color(120, 60, 5), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,2,2,2], #tags:[]]]
+[#nm:"BricksDestroyedNoBG", #color:color(120, 60, 5), #floor:[#repeatL:[4,2,2,2], #rnd:3, #bfTiles:1, #tags:[]], #texture:[#sz:point(16, 16), #repeatL:[2,2,2,4], #tags:[]]]
 
 -Mer's Materials
 [#nm:"WeirdConcreate", #color:color(66, 245, 215), #block:[#repeatL:[1,9], #rnd:1, #tags:[]], #slope:[#repeatL:[1,9], #rnd:1, #tags:[]], #floor:[#repeatL:[6,1,1,1,1], #rnd:1, #bfTiles:1, #tags:[]], #texture:[#sz:point(13, 13), #repeatL:[1,5], #tags:[]]]
