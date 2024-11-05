@@ -323,6 +323,11 @@
 [#nm:"cheese", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:5, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"cheese_greebled", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:5, #ptPos:0, #tags:["notTrashProp"]]
 [#nm:"Sunflower Box", #sz:point(8,8), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Small Metal Nonbox", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Square Metal Nonbox", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Metal Floor Nonbox", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,2,2,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Big Metal Nonbox", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Big Metal Marked Nonbox", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
 
 -["Metal Beams", color(0, 10, 255)]
 [#nm:"Mold Metal Bar H", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
