@@ -19,3 +19,5 @@ Thanks to:
 - Adeline for the tiles "Modular AI Chamber"
 - Shotgun Slugs for some props in "Misc2"
 - Nautilo for the huge signs
+
+- Ludocrypt for the Ludos Brutals, Ludo Wall Vents, Wall wires Front, More vent hubs

@@ -1,0 +1,7 @@
+-Test Plants
+[#nm:"TestStandard", #tp:"standardPlant", #vars:16, #pxlSz:point(40,98), #pickColor:1, #hasGrad:1, #randomFlip:1, #placeAmt:2, #szVar:[0.15, 1], #rotVar:10, #strengthAffectSize:1, #strengthAffectVar:1, #rootAmt:5]
+[#nm:"TestGrower", #tp:"grower", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #effectFadeOut:0.85, #effectFadeOut2:0.15, #tipGraf:"TestTipGraf", #tipPxlSz:point(40,40), #tipVars:4, #tipMoveAmt:36]
+[#nm:"TestRoot", #tp:"hanger", #vars:13, #pxlSz:point(20,50), #pickColor:0, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #szChange:[0.5,1.0, 0.5]]
+[#nm:"TestClinger", #tp:"clinger", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:0, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #effectFadeOut:0.85, #effectFadeOut2:0.15]
+[#nm:"TestIndividual", #tp:"individual", #vars:8, #pxlSz:point(80,180), #pickColor:0, #randomFlip:1, #szVar:[0.5, 2], #rotVar:45, #rootAmt:20]
+[#nm:"TestWall", #tp:"wall", #vars:40, #pxlSz:point(6,6), #pickColor:1, #hasGrad:0, #randomRotat:0, #randomFlip:0, #requireSolid:1, #placeAmt:8, #szVar:[0.999, 1], #strengthAffectSize:0, #strengthAffectVar:0, #can3D:1, #outline:1]

@@ -1,0 +1,2 @@
+-Silly
+[#nm:"slugeffect", #tp:"grower", #vars:13, #pxlSz:point(20,50), #pickColor:1, #hasGrad:1, #randomFlip:1, #initRotVar:50, #segmentRotVar:30, #segmentRotPull:0.75, #segmentMoveAmt: 30, #effectFadeOut:0.85, #effectFadeOut2:0.15]
