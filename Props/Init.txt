@@ -690,6 +690,7 @@
 [#nm:"TransFlag", #tp:"variedStandard", #colorTreatment:"standard", #sz:point(5, 5), #repeatL:[1], #vars:2, #random:0, #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[RETURN & QUOTE & "Hold love in your hearts and show kindness to others." & QUOTE & " (Wrayk quote)" & RETURN]]
 
 -["Misc", color(80, 255, 80)]
+[#nm:"Rebar", #tp:"standard", #colorTreatment:"standard", #sz:point(6, 6), #repeatL:[2], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"TM_deerskull", #tp:"standard", #colorTreatment:"standard", #sz:point(7,9), #repeatL:[3], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Big Pole Ornation", #tp:"standard", #colorTreatment:"standard", #sz:point(10, 8), #repeatL:[4,1], #tags:[], #layerExceptions:[], #notes:[]]
 [#nm:"Stained Glass Window", #tp:"standard", #colorTreatment:"standard", #sz:point(10,17), #repeatL:[1], #tags:["effectColorA", "effectColorB", "notTrashProp"], #layerExceptions:[], #notes:[]]

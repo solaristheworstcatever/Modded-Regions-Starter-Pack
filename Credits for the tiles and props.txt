@@ -28,3 +28,5 @@ Thanks to:
 - Alduris for Wind Chimes Thin
 - Dedniko for torso machine
 - April for material previews for mers mats, uglies, and 34th's materials
+- Wrayk for Rebar prop
+- 34th for Tetrapods
